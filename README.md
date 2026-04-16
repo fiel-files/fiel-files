@@ -1,5 +1,4 @@
 <h2 align="center"> Hello, World!✨ </h2> 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you)
 
 <h8 align="center"> A web developer learning next.js and app development </h8>
 
