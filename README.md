@@ -60,11 +60,37 @@ I enjoy building applications, solving real-world problems, and expanding my kno
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=fiel-files&show_icons=true)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=fiel-files)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fiel-files&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fiel-files&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fiel-files&show_icons=true"
+  />
+</picture>
 
-![Visitors](https://komarev.com/ghpvc/?username=fiel-files)
+<picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=fiel-files&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com/?user=fiel-files&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=fiel-files"
+  />
+</picture>
+
+</p>
 
 ## 🐍 Contribution Snake
 
